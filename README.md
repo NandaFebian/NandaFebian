@@ -1,35 +1,31 @@
-<div align="center">
+## Nanda Febian
 
-# Halo, saya Nanda Febian! 🇮🇩
+Backend developer and IT generalist based in Bali, Indonesia.\
+Information Technology graduate from Universitas Udayana.
 
-**Student | Developer | Dreamer**
+I mostly build backend services with NestJS, TypeScript, and MongoDB. Outside of code, I've set up networks and devices for events, trained people to use the systems I deployed, and handled a fair amount of data work in Excel.
 
-<a href="https://github.com/NandaFebian">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NandaFebian.NandaFebian" alt="visitors" />
-</a>
+### Selected work
 
-</div>
+**Work Order Management System** · NestJS, TypeScript, MongoDB\
+Backend for tracking work orders from creation to completion. JWT auth, role-based access for Admin, Supervisor, and Technician, request validation, and Swagger docs. My undergraduate thesis.
 
----
+**[Balinese Dance Detection](https://github.com/NandaFebian/balinese_dance-detection)** · Python, OpenCV, MediaPipe, LSTM\
+Classifies Balinese dance movements from video using pose landmarks and an LSTM model.
 
-### 👋 Sekilas Tentang Saya
-Saya berasal dari Bali, Indonesia. Saat ini sedang menempuh pendidikan di bidang teknologi informasi. Saya percaya bahwa *coding* adalah jembatan antara imajinasi dan realitas.
+**Village Website & Mobile App** · Laravel, Flutter\
+Built and deployed for PPK Ormawa 2024, a nationally funded community program. Also handled the hosting, domain, and training for village staff.
 
-- 🔭 Sedang fokus pada: **Back-end Development**
-- 🌱 Sedang mempelajari: **Cloud Computing & AI**
-- 🤝 Terbuka untuk kolaborasi project mahasiswa atau open source.
+### Stack
 
----
+```
+languages   TypeScript, JavaScript, PHP, Python, C
+backend     NestJS, Laravel, REST, JWT, RBAC
+data        MongoDB, Mongoose, Excel
+mobile/web  Flutter, HTML, CSS, Tailwind CSS
+tools       Git, Postman, Swagger, Linux
+```
 
-### 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+### Contact
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaFebian&layout=compact&theme=tokyonight" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/nandafebian/) · [nandafbian@gmail.com](mailto:nandafbian@gmail.com)
